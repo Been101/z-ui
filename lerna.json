@@ -1,8 +1,7 @@
 {
-  "packages": [
-    "packages/*"
-  ],
+  "packages": ["packages/*"],
   "npmClient": "yarn",
   "version": "1.0.1",
-  "useWorkspaces": true
+  "useWorkspaces": true,
+  "repository": "https://github.com/Been101/z-ui.git"
 }
