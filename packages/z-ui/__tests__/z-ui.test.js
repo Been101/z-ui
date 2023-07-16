@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
-const zUi = require('..');
+const zUi = require("..");
 
-describe('z-ui', () => {
-    it('needs tests');
+describe("laozheng", () => {
+  it("needs tests");
 });

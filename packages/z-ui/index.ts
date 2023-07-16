@@ -1,12 +1,12 @@
 import { App } from "vue";
-import Button from "@z-ui/button";
-import Icon from "@z-ui/icon";
-import ButtonGroup from "@z-ui/button-group";
-import Row from "@z-ui/row";
-import Col from "@z-ui/col";
-import Checkbox from "@z-ui/checkbox";
-import CheckboxGroup from "@z-ui/checkbox-group";
-// import Transfer from '@z-ui/transfer';
+import Button from "@laozheng/button";
+import Icon from "@laozheng/icon";
+import ButtonGroup from "@laozheng/button-group";
+import Row from "@laozheng/row";
+import Col from "@laozheng/col";
+import Checkbox from "@laozheng/checkbox";
+import CheckboxGroup from "@laozheng/checkbox-group";
+// import Transfer from '@laozheng/transfer';
 const components = [
   Button,
   Icon,

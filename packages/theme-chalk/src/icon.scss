@@ -1,14 +1,14 @@
 @import "./common/var.scss";
 
 @font-face {
-    font-family: "z-ui-icons";
+    font-family: "laozheng-icons";
     src: url('./fonts/iconfont.woff?t=1616160556318') format('woff'),
         url('./fonts/iconfont.ttf?t=1616160556318') format('truetype'),
         /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
 }
 
 [class^="#{$namespace}-icon-"] {
-    font-family: "z-ui-icons" !important;
+    font-family: "laozheng-icons" !important;
     font-size: 16px;
     font-style: normal;
     -webkit-font-smoothing: antialiased;

@@ -4,7 +4,7 @@ import path from "path";
 import vue from "rollup-plugin-vue";
 
 export default {
-  input: path.resolve(__dirname, `../packages/z-ui/index.ts`),
+  input: path.resolve(__dirname, `../packages/laozheng/index.ts`),
   output: {
     format: "umd",
     file: `lib/index.umd.js`,

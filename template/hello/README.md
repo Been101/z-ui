@@ -1,11 +1,11 @@
-# `laozheng`
+# `hello`
 
 > TODO: description
 
 ## Usage
 
 ```
-const zUi = require('laozheng');
+const hello = require('hello');
 
 // TODO: DEMONSTRATE API
 ```
