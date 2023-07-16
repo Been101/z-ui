@@ -46,6 +46,7 @@ export default defineComponent({
   
   setup(props, ctx) { // instance 里面摘出了几个属性 给了ctx
     // 我们所有的组件都不会在用optionsApi (this) 全部采用compostionApi
+    // this is a button
     const classs = computed(() => [
       // --
       "z-button",
